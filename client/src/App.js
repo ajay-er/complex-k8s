@@ -6,8 +6,8 @@ import OtherPage from './Otherpage';
 function App() {
   return (
       <div className="App">
-        <Link to="/">Home</Link>
-        <Link to="/otherpage">Other Page</Link>
+        <Link to="/">Home </Link>
+        <Link to="/otherpage">otherPage</Link>
         <div>
           <Routes>
             <Route path="/" element={<Fib />} />
