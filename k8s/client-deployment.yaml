@@ -17,3 +17,4 @@ spec:
           image: ajay404/client
           ports:
             - containerPort: 3000
+
